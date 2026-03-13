@@ -101,4 +101,11 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 <img width="550" height="136" alt="Screenshot 2025-09-22 141440" src="https://github.com/user-attachments/assets/190aee2b-bd14-4219-b32c-425102fe2d99" />
  <img width="466" height="1040" alt="Screenshot 2025-09-22 141344" src="https://github.com/user-attachments/assets/27601492-4e45-46d6-bf14-dbbc29c86ec3" />
 
-```
+ ![WhatsApp Image 2025-09-28 at 22 07 50_8d4285d2](https://github.com/user-attachments/assets/ee8489a7-7d86-459e-b678-beabd9dfc653)
+![WhatsApp Image 2025-09-28 at 22 07 50_f9aeba5d](https://github.com/user-attachments/assets/aff05993-c1ef-4d11-989b-12ea0af0188f)
+
+
+# Result
+
+Thus linear block code operation for the given input is successfully verified.
+
